@@ -1,6 +1,6 @@
-## Hola món! 🍀
+## Hola, soc la Irie! 🍀
 
-Soc la **Irie**, estudiant de primer any de **DAW** (Desenvolupament d'Aplicacions Web) a la **ITB**.
+Estudiant de primer any de **DAW** (Desenvolupament d'Aplicacions Web) a la **ITB**.
 
 **🌱 Aprenent:** ![image](https://github.com/user-attachments/assets/33a5659a-3b26-435f-aaba-912bae7b4d58)
 ![image](https://github.com/user-attachments/assets/f8dde6c1-432c-4e12-a186-848f435e9068)
