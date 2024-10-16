@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hola món! 👋
+
+Soc la **Irie**, estudiant de DAW (Desenvolupament d'Aplicacions Web) de la ITB.
+
 
 <!--
-**irie-yamashita/irie-yamashita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
