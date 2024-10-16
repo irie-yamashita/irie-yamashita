@@ -1,6 +1,6 @@
-## Hola món! 👋
+## Hola món! 🦤
 
-Soc la **Irie**, estudiant de DAW (Desenvolupament d'Aplicacions Web) de la ITB.
+Soc la **Irie**, estudiant de **DAW** (Desenvolupament d'Aplicacions Web) a la **ITB**.
 
 
 <!--
