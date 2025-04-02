@@ -10,7 +10,7 @@ Estudiant de primer any de **DAW** (Desenvolupament d'Aplicacions Web) a la **IT
 ![image](https://github.com/user-attachments/assets/ccfc70d9-ea76-423d-9c04-236868a15d26)
 
 
-**◀️ Fromació Anterior:** A3D a La Mercè 
+**◀️ Fromació Anterior:** Animacions en 3D, Jocs i Entorns Interactius
 
 **📫 Contacte:** irie.yamashita.7e8@itb.cat  
 **🎮 Itch.io:** https://irieyamashita.itch.io/
