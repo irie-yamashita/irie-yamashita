@@ -12,5 +12,6 @@ Estudiant de primer any de **DAW** (Desenvolupament d'Aplicacions Web) a la **IT
 
 **◀️ Fromació Anterior:** Animacions en 3D, Jocs i Entorns Interactius
 
+**🖥️ Portafoli:** https://sites.google.com/view/portafoli-irieyamashita/inici  
 **📫 Contacte:** irie.yamashita.7e8@itb.cat  
 **🎮 Itch.io:** https://irieyamashita.itch.io/
